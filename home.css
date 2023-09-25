@@ -20,6 +20,7 @@ body {
     height: 100%;
     display: flex;
     box-shadow: 5px 5px 10px rgba(23, 217, 214, 0.212);
+    size-adjust: auto;
 }
 
 .form-image {
